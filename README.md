@@ -24,13 +24,9 @@ The goal is to help decision-makers identify best-performing areas and spot oppo
 ## 📂 File
 - `Sales & Shipping Performance Dashboard.pbix` – The Power BI dashboard file.
 
----
-
-## 📷 Dashboard Preview
-*(Add a screenshot of your dashboard here by dragging it into this README on GitHub)*
 
 ---
 
-## 👩‍💻 Author
+ 👩‍💻 Author
 **Wateen Alotaibi**  
 GitHub: [Wateenotaibi](https://github.com/Wateenotaibi)
